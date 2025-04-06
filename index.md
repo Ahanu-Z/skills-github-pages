@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog, Toshiro testing
+Toshiro title : Welcome to my blog, Toshiro testing
 ---
 
